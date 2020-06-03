@@ -1,4 +1,4 @@
-# Proyecto Java
+# Proyecto REACTJS
 El presente proyecto es un ejercicio de reclutamiento para la plaza react developer en la empresa focus.
 El proyecto esta hecho con las siguientes tecnologías:
 	<br />1.reactjs.
