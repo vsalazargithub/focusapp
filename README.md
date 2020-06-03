@@ -15,7 +15,7 @@ El proyecto tiene las siguientes consideraciones:
     <br />5.Levantar el api server que esta en la ruta focus-rest-impl/target/focus-studio-rest-api-0.0.1.jar con el comando java -jar focus-studio-rest-api-0.0.1.jar 
     <br />6.Levantar con npm start el sitio hecho con react en la ruta focus-rest-impl/reactjs/react-app
     <br />7.Es importante revisar que los puertos 8080 y 3000 esten habilitados en la computadora que se valida, ya que son utilizados por el aplicativo
-
+    <br />8.El archivo focus-rest-impl/test.docx contiene print screen del aplicativo funcionando
 
 
 
