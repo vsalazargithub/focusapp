@@ -6,7 +6,7 @@
     "react-scripts": "1.0.10"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "circular-json": "^0.5.9",
     "eslint-plugin-flowtype": "^2.35.0",
     "eslint-plugin-import": "^2.7.0",
